@@ -1,0 +1,79 @@
+Author: Danielle DeLooze
+Student ID: 29493487
+Project: Project 1 MasterMind
+
+Sample OutPut:
+
+Hello! Let's play a game of Mastermind!
+You'll provide the code and I'll break it
+How many colors would you like?
+3
+How many positions would you like the code to have?
+3
+Ok, now what are the colors you'd like to use?
+Red
+Green
+Blue
+Is [Red, Red, Red] the right code?
+How many colors are in the correct positions?
+0
+How many colors are in the wrong spot, but are the correct color?
+0
+Is [Green, Green, Green] the right code?
+How many colors are in the correct positions?
+1
+How many colors are in the wrong spot, but are the correct color?
+0
+Is [Green, Blue, Blue] the right code?
+How many colors are in the correct positions?
+1
+How many colors are in the wrong spot, but are the correct color?
+2
+Is [Blue, Green, Blue] the right code?
+How many colors are in the correct positions?
+3
+How many colors are in the wrong spot, but are the correct color?
+0
+Hooray! I figured it out!
+Would you like to play again?
+If yes, type 'Yes'. If no, type 'No'
+Yes
+How many colors would you like?
+4
+How many positions would you like the code to have?
+3
+Ok, now what are the colors you'd like to use?
+Red
+Green
+Blue
+Yellow
+Is [Red, Red, Red] the right code?
+How many colors are in the correct positions?
+0
+How many colors are in the wrong spot, but are the correct color?
+0
+Is [Green, Green, Green] the right code?
+How many colors are in the correct positions?
+1
+How many colors are in the wrong spot, but are the correct color?
+0
+Is [Green, Blue, Blue] the right code?
+How many colors are in the correct positions?
+1
+How many colors are in the wrong spot, but are the correct color?
+1
+Is [Yellow, Green, Blue] the right code?
+How many colors are in the correct positions?
+1
+How many colors are in the wrong spot, but are the correct color?
+2
+Is [Yellow, Blue, Green] the right code?
+How many colors are in the correct positions?
+3
+How many colors are in the wrong spot, but are the correct color?
+0
+Hooray! I figured it out!
+Would you like to play again?
+If yes, type 'Yes'. If no, type 'No'
+No
+Thanks for playing!
